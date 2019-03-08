@@ -1,0 +1,7 @@
+organization=cesarsousa-github
+projectKey=cesarsousa_projetoCurso
+serverUrl=https://sonarcloud.io
+serverVersion=7.7.0.22107
+dashboardUrl=https://sonarcloud.io/dashboard?id=cesarsousa_projetoCurso
+ceTaskId=AWkdMZEqzuesSb3rwLs8
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWkdMZEqzuesSb3rwLs8

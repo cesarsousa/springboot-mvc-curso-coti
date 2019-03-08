@@ -1,0 +1,94 @@
+
+7coti.com.br.entity.Produto#toString()Ljava/lang/String;
+__unknown_file ("1*–
+1l
+bC:\Users\cesar\eclipse-oxygen-workspace\projetoCurso\src\main\java\coti\com\br\entity\Produto.javaN	 N(¼
+¹
+l
+bC:\Users\cesar\eclipse-oxygen-workspace\projetoCurso\src\main\java\coti\com\br\entity\Produto.javaN! N(*
+%0java.lang.Long"__id*-*+
+coti.com.br.entity.Produto"
+	idProdutoÄ
+Á
+l
+bC:\Users\cesar\eclipse-oxygen-workspace\projetoCurso\src\main\java\coti\com\br\entity\Produto.javaN	 N(*
+%1java.lang.String"__concat*
+Produto [idProduto=*
+
+%0java.lang.Longº
+·
+l
+bC:\Users\cesar\eclipse-oxygen-workspace\projetoCurso\src\main\java\coti\com\br\entity\Produto.javaN	 N(6
+%2java.lang.String"__concat*
+
+%1java.lang.String*	
+, tipo=¹
+¶
+l
+bC:\Users\cesar\eclipse-oxygen-workspace\projetoCurso\src\main\java\coti\com\br\entity\Produto.javaN9 N(=
+%3java.lang.String"__id*(*&
+coti.com.br.entity.Produto"
+tipoÇ
+Ä
+l
+bC:\Users\cesar\eclipse-oxygen-workspace\projetoCurso\src\main\java\coti\com\br\entity\Produto.javaN	 N(=
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.StringÁ
+¾
+l
+bC:\Users\cesar\eclipse-oxygen-workspace\projetoCurso\src\main\java\coti\com\br\entity\Produto.javaN	 N(P
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+, nomeProduto=À
+½
+l
+bC:\Users\cesar\eclipse-oxygen-workspace\projetoCurso\src\main\java\coti\com\br\entity\Produto.javaNS N(^
+%6java.lang.String"__id*/*-
+coti.com.br.entity.Produto"
+nomeProdutoÇ
+Ä
+l
+bC:\Users\cesar\eclipse-oxygen-workspace\projetoCurso\src\main\java\coti\com\br\entity\Produto.javaN	 N(^
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.String»
+¸
+l
+bC:\Users\cesar\eclipse-oxygen-workspace\projetoCurso\src\main\java\coti\com\br\entity\Produto.javaN	 N(k
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+
+, preco=º
+·
+l
+bC:\Users\cesar\eclipse-oxygen-workspace\projetoCurso\src\main\java\coti\com\br\entity\Produto.javaO O(
+%9java.lang.Double"__id*)*'
+coti.com.br.entity.Produto"
+precoÈ
+Å
+l
+bC:\Users\cesar\eclipse-oxygen-workspace\projetoCurso\src\main\java\coti\com\br\entity\Produto.javaN	 O(
+%10java.lang.String"__concat*
+
+%8java.lang.String*
+
+%9java.lang.Double¶
+³
+l
+bC:\Users\cesar\eclipse-oxygen-workspace\projetoCurso\src\main\java\coti\com\br\entity\Produto.javaN	 O(
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+]"‰
+l
+bC:\Users\cesar\eclipse-oxygen-workspace\projetoCurso\src\main\java\coti\com\br\entity\Produto.javaN O(
+
+%11java.lang.StringB
+coti.com.br.entity.Produto
